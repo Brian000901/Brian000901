@@ -1,4 +1,5 @@
-## Hello World!
+# Hello World!
+## About me
 I'm a student from Taiwan, learning programming and other computer-related topics.
 
 ## Skills
