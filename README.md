@@ -12,5 +12,5 @@ I'm a student from Taiwan, learning programming and other computer-related topic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brian000901&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=brian000901&theme=tokyonight&hide_border=true)
 
-> 沒什麼特別的\n
+> 沒什麼特別的
 > [MinecraftPEayer](https://github.com/MinecraftPEayer) The Pro
