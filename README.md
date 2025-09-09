@@ -3,7 +3,7 @@
 I'm a student from Taiwan, learning programming and other computer-related topics.
 
 ## Skills
-- **Operating Systems**: Windows, Linux (Ubuntu)
+- **Operating Systems**: Windows, Linux (Ubuntu、Arch)
 - **Frameworks**: Node.js, Python
 - **Programming Languages**: Currently learning JavaScript and Rust
 
